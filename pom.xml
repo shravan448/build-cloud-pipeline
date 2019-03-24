@@ -11,6 +11,7 @@
 	<groupId>com.my.cloud.pipeline</groupId>
 	<artifactId>my-first-cloud-pipeline</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 
